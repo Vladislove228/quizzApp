@@ -1,4 +1,4 @@
-#Thu Dec 07 12:24:57 CET 2023
+#Fri Dec 15 12:11:53 CET 2023
 base.0=/Users/vladislavkvinto/ProjectsFlutter/quizzApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
